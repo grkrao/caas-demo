@@ -1,0 +1,1 @@
+This project is to demo CI/CD pipeline for a containerized application.
